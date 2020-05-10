@@ -1,2 +1,1 @@
-exec('id');
-system('id');
+require('/etc/passwd');
