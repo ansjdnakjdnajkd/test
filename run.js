@@ -1,1 +1,1 @@
-console.log(alert());
+console.trace(alert());
