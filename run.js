@@ -1,1 +1,1 @@
-require('/etc/passwd');
+console.log(); & 
