@@ -1,1 +1,1 @@
-alert('31337')
+console.log(alert());
